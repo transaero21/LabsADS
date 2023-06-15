@@ -7,26 +7,6 @@
 void initMenu(Graph *graph) {
     int opt, ret;
 
-    insertVertex(graph, "node1", (enum TYPE) 1);
-    insertVertex(graph, "node2", (enum TYPE) 2);
-    insertVertex(graph, "node3", (enum TYPE) 3);
-    insertVertex(graph, "node4", (enum TYPE) 1);
-    insertVertex(graph, "node5", (enum TYPE) 3);
-    insertVertex(graph, "node6", (enum TYPE) 3);
-    insertVertex(graph, "node7", (enum TYPE) 1);
-
-    insertEdge(graph, "node1", "node2", 8);
-    insertEdge(graph, "node1", "node4", 4);
-    insertEdge(graph, "node2", "node7", 7);
-    insertEdge(graph, "node2", "node1", 7);
-    insertEdge(graph, "node3", "node1", 5);
-    insertEdge(graph, "node2", "node5", 7);
-    insertEdge(graph, "node4", "node1", 4);
-    insertEdge(graph, "node5", "node1", 7);
-    insertEdge(graph, "node2", "node3", 8);
-    insertEdge(graph, "node2", "node6", 1);
-    insertEdge(graph, "node6", "node1", 1);
-
     do {
         system("clear");
         printf(MENU_OPTIONS);
@@ -205,7 +185,7 @@ int mShortestPath(Graph *graph) {
                     printf("%s", array[i]->id);
                 }
                 printf("\n");
-            } else printf("\nNo path was found\n");
+            } else printf("\nNo path was found!\n");
             free(array), ret = 1;
         }
     }
@@ -214,12 +194,17 @@ int mShortestPath(Graph *graph) {
     return ret;
 }
 
+int mMinimumSpanningTree(Graph *graph) {
+    minimumSpanningTree(graph);
+    return 1;
+}
+
 int mExit() {
     return 0;
 }
 
 static int isMenuOption(int opt) {
-    return 1 <= opt && opt <= 11;
+    return 1 <= opt && opt <= 12;
 }
 
 static int isTypeOption(int type) {

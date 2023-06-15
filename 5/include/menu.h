@@ -27,10 +27,12 @@
     "├────────────────────────────────┤\n"   \
     "│ 10. Find shortest path         │\n"   \
     "├────────────────────────────────┤\n"   \
-    "│ 11. Exit program               │\n"   \
+    "│ 11. Minimum spanning tree      │\n"   \
+    "├────────────────────────────────┤\n"   \
+    "│ 12. Exit program               │\n"   \
     "└────────────────────────────────┘\n"   \
     "\n"                                     \
-    "Type your option from 1 to 11, then press ENTER: "
+    "Type your option from 1 to 12, then press ENTER: "
 
 void initMenu(Graph *graph);
 
@@ -44,6 +46,7 @@ int mPrintAdjacency(Graph *graph);
 int mPrintPicture(Graph *graph);
 int mReachabilityCheck(Graph *graph);
 int mShortestPath(Graph *graph);
+int mMinimumSpanningTree(Graph *graph);
 int mExit();
 
 static int (*opts[])(Graph *) = {
@@ -57,6 +60,7 @@ static int (*opts[])(Graph *) = {
         mPrintPicture,
         mReachabilityCheck,
         mShortestPath,
+        mMinimumSpanningTree,
         mExit
 };
 

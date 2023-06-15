@@ -43,6 +43,11 @@ Node *initNode(Edge *edge, Node *next) {
     return node;
 }
 
+EData initEData(Edge *edge, int from) {
+    EData eData = {.weight = edge->weight, .from = from, .to = edge->vertex};
+    return eData;
+}
+
 int getVertexIndexById(Graph *graph, const char *id, int *i) {
     int exists = 0;
     for (*i = 0; *i < graph->size; (*i)++) {
@@ -245,9 +250,7 @@ void pushFront(Vertex ***array, Vertex *vertex) {
     int i = 0;
     if (*array) while ((*array)[i]) i++;
     *array = realloc(*array, (i + 2) * sizeof(Node *));
-    for (int j = 0; j < i; j++) {
-        (*array)[j + 1] = (*array)[j];
-    }
+    for (int j = 0; j < i; j++) (*array)[j + 1] = (*array)[j];
     (*array)[0] = vertex;
     (*array)[i + 1] = NULL;
 }
@@ -286,6 +289,67 @@ Vertex **shortestPath(Graph *graph, const char *from, const char *to) {
     return array;
 }
 
-void minimumSpanningTree(Graph *graph) {
+void dfs(Graph *graph, int from, int *visited) {
+    visited[from] = 1;
+    Node *node = graph->vertices[from]->edge;
+    while (node != NULL) {
+        Edge *edge = (Edge*) node->obj;
+        int nextVertex = getVertexIndex(graph, edge->vertex);
+        if (!visited[nextVertex]) dfs(graph, nextVertex, visited);
+        node = node->next;
+    }
+}
 
+int verifyGraph(Graph *graph) {
+    int isOk = 0;
+
+    for (int i = 0; i < graph->size; ++i) {
+        if (graph->vertices[i]->type != ENTER) continue;
+        int *visited = calloc(graph->size, sizeof(int));
+        dfs(graph, i, visited);
+        for (int j = 0; j < graph->size; j++) {
+            if (!visited[j] && graph->vertices[j]->type == EXIT) {
+                isOk++;
+                break;
+            }
+        }
+        free(visited);
+    }
+
+    return isOk;
+}
+
+int compareEdges(const void *a, const void *b) {
+    return ((EData *) b)->weight - ((EData *) a)->weight;
+}
+
+void minimumSpanningTree(Graph *graph) {
+    EData *array = NULL;
+    int size = 0;
+
+    for (int i = 0; i < graph->size; i++) {
+        Vertex *vertex = graph->vertices[i];
+        for (Node *node = vertex->edge; node; node = node->next) {
+            EData new = initEData((Edge *) node->obj, i);
+            array = realloc(array, ++size * sizeof(EData));
+            array[size - 1] = new;
+        }
+    }
+    qsort(array, size, sizeof(EData), compareEdges);
+
+    for (int i = 0; i < size; i++) {
+        for (Node *node = graph->vertices[array[i].from]->edge, *prev = NULL; node; prev = node, node = node->next) {
+            if (((Edge *) node->obj)->vertex == array[i].to) {
+                int oldRet = verifyGraph(graph);
+                if (prev) prev->next = node->next;
+                else graph->vertices[array[i].from]->edge = node->next;
+                if (verifyGraph(graph) != oldRet) {
+                    if (prev) prev->next = node;
+                    else graph->vertices[array[i].from]->edge = node;
+                } else free(node);
+                break;
+            }
+        }
+    }
+    free(array);
 }

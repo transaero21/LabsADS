@@ -77,7 +77,15 @@ enum STATUS {
     NOT_REACHABLE = 1
 };
 
+typedef struct EData {
+    int from;
+    Vertex *to;
+    int weight;
+} EData;
+
 enum STATUS reachabilityCheck(Graph *graph, const char *from);
 Vertex **shortestPath(Graph *graph, const char *from, const char *to);
+void minimumSpanningTree(Graph *graph);
+
 
 #endif //GRAPH_H
