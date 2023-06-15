@@ -17,7 +17,9 @@ void destroyGraph(Graph *graph) {
             free(node->obj), free(node);
         }
     }
-    for (int i = 0; i < graph->size; i++) free(graph->vertices[i]);
+    for (int i = 0; i < graph->size; i++) {
+        free(graph->vertices[i]->id), free(graph->vertices[i]);
+    }
     free(graph->vertices);
     free(graph);
 }
@@ -97,7 +99,7 @@ int insertEdge(Graph *graph, const char *from, const char *to, int weight) {
 
     Node *node = graph->vertices[iFrom]->edge;
     for (; node; node = node->next) {
-        if (!strcmp(((Vertex *) node->obj)->id, to)) break;
+        if (!strcmp(((Edge *) node->obj)->vertex->id, to)) break;
     }
     if (node) return 0;
 
@@ -108,10 +110,9 @@ int insertEdge(Graph *graph, const char *from, const char *to, int weight) {
 
 int deleteVertex(Graph *graph, const char *id) {
     int i;
-    if (getVertexIndexById(graph, id, &i)) return 0;
+    if (!getVertexIndexById(graph, id, &i)) return 0;
 
     for (int j = 0; j < graph->size; j++) {
-        if (i == j) continue;
         for (Node *node = graph->vertices[j]->edge, *prev = NULL; node;) {
             Edge *edge = node->obj;
             if (!strcmp(edge->vertex->id, id)) {
@@ -124,12 +125,19 @@ int deleteVertex(Graph *graph, const char *id) {
                 prev = node, node = node->next;
             }
         }
+
     }
 
     for (Node *node = graph->vertices[i]->edge, *next; node; node = next) {
         next = node->next;
         free(node->obj), free(node);
     }
+    free(graph->vertices[i]->id), free(graph->vertices[i]);
+    for (int j = i + 1; j < graph->size; ++j) {
+        graph->vertices[j - 1] = graph->vertices[j];
+    }
+    graph->size--;
+
     return 1;
 }
 
@@ -151,7 +159,7 @@ int deleteEdge(Graph *graph, const char *from, const char *to) {
 
 int updateVertex(Graph *graph, const char *id, enum TYPE nType) {
     int i;
-    if (getVertexIndexById(graph, id, &i)) return 0;
+    if (!getVertexIndexById(graph, id, &i)) return 0;
     graph->vertices[i]->type = nType;
     return 1;
 }
@@ -242,7 +250,8 @@ enum STATUS reachabilityCheck(Graph *graph, const char *from) {
         if (isOk) break;
     }
 
-    free(visited);
+    while (!isEmpty(queue)) pop(queue);
+    free(visited), free(queue);
     return isOk ? REACHABLE : NOT_REACHABLE;
 }
 
@@ -250,7 +259,7 @@ void pushFront(Vertex ***array, Vertex *vertex) {
     int i = 0;
     if (*array) while ((*array)[i]) i++;
     *array = realloc(*array, (i + 2) * sizeof(Node *));
-    for (int j = 0; j < i; j++) (*array)[j + 1] = (*array)[j];
+    for (int j = i; j >= 1; j--) (*array)[j] = (*array)[j - 1];
     (*array)[0] = vertex;
     (*array)[i + 1] = NULL;
 }
@@ -346,7 +355,7 @@ void minimumSpanningTree(Graph *graph) {
                 if (verifyGraph(graph) != oldRet) {
                     if (prev) prev->next = node;
                     else graph->vertices[array[i].from]->edge = node;
-                } else free(node);
+                } else free(node->obj), free(node);
                 break;
             }
         }

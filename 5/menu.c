@@ -165,6 +165,7 @@ int mReachabilityCheck(Graph *graph) {
         }
         ret = 1;
     }
+    free(from);
 
     return ret;
 }
