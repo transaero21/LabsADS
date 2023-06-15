@@ -8,10 +8,10 @@ void import(Tree *tree, FILE *file) {
     char *line, *key, *value;
     int i = 0, j = 0;
 
-//    if (tree->root) {
-//        destroyNode(tree->root);
- //       tree->root = NULL;
- //   }
+    if (tree->root) {
+        destroyNode(tree->root);
+        tree->root = NULL;
+    }
 
     for (; (line = readLine(file)); free(line), i++) {
         if (i % 2 != 1) key = strdup(line);

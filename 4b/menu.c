@@ -37,8 +37,8 @@ int mInsert(Tree *tree, clock_t *time) {
             else printf("\nElement was successfully inserted\n");
             ret = 1;
         }
-        free(key);
     }
+    free(key), free(value);
 
     return ret;
 }
