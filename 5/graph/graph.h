@@ -54,7 +54,7 @@ typedef struct Graph {
 #define DOT_FILE "/tmp/graph.dot"
 #define PNG_FILE "/tmp/graph.png"
 
-#define DOT_CMD ("dot -Tpng " DOT_FILE " -o " PNG_FILE)
+#define DOT_CMD ("sfdp -x -Goverlap=scale -Tpng " DOT_FILE " -o " PNG_FILE)
 #define IMG_CMD ("catimg " PNG_FILE)
 
 Graph *initGraph();
@@ -87,5 +87,9 @@ enum STATUS reachabilityCheck(Graph *graph, const char *from);
 Vertex **shortestPath(Graph *graph, const char *from, const char *to);
 void minimumSpanningTree(Graph *graph);
 
+#define SEP " \t\r\n\v\f"
+
+void import(Graph *graph, FILE *file);
+void dump(Graph *graph, FILE *file);
 
 #endif //GRAPH_H

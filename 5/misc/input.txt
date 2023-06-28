@@ -1,0 +1,27 @@
+vertex 1 enter
+vertex 2 transition
+vertex 3 transition
+vertex 4 transition
+vertex 5 transition
+vertex 6 exit
+vertex 7 transition
+vertex 8 transition
+vertex 9 transition
+vertex 10 exit
+vertex 11 enter
+
+edge 1 2 1
+edge 2 3 2
+edge 3 4 4
+edge 3 6 5
+edge 4 6 1
+edge 6 4 2
+edge 4 5 1
+edge 5 6 3
+edge 6 7 1
+edge 5 7 1
+edge 1 8 3
+edge 8 9 3
+edge 9 10 3
+edge 1 10 19
+edge 7 10 1

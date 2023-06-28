@@ -1,0 +1,3000 @@
+vertex 1 transition
+vertex 2 transition
+vertex 3 transition
+vertex 4 transition
+vertex 5 transition
+vertex 6 transition
+vertex 7 transition
+vertex 8 transition
+vertex 9 transition
+vertex 10 transition
+vertex 11 transition
+vertex 12 transition
+vertex 13 transition
+vertex 14 exit
+vertex 15 transition
+vertex 16 transition
+vertex 17 exit
+vertex 18 transition
+vertex 19 enter
+vertex 20 transition
+vertex 21 transition
+vertex 22 transition
+vertex 23 transition
+vertex 24 transition
+vertex 25 transition
+vertex 26 transition
+vertex 27 transition
+vertex 28 transition
+vertex 29 exit
+vertex 30 transition
+vertex 31 transition
+vertex 32 transition
+vertex 33 transition
+vertex 34 transition
+vertex 35 transition
+vertex 36 transition
+vertex 37 transition
+vertex 38 transition
+vertex 39 transition
+vertex 40 transition
+vertex 41 transition
+vertex 42 transition
+vertex 43 transition
+vertex 44 transition
+vertex 45 transition
+vertex 46 transition
+vertex 47 transition
+vertex 48 transition
+vertex 49 transition
+vertex 50 transition
+vertex 51 transition
+vertex 52 transition
+vertex 53 transition
+vertex 54 transition
+vertex 55 transition
+vertex 56 transition
+vertex 57 enter
+vertex 58 transition
+vertex 59 exit
+vertex 60 transition
+vertex 61 transition
+vertex 62 transition
+vertex 63 transition
+vertex 64 transition
+vertex 65 transition
+vertex 66 transition
+vertex 67 transition
+vertex 68 transition
+vertex 69 transition
+vertex 70 transition
+vertex 71 transition
+vertex 72 transition
+vertex 73 transition
+vertex 74 transition
+vertex 75 transition
+vertex 76 exit
+vertex 77 transition
+vertex 78 transition
+vertex 79 transition
+vertex 80 transition
+vertex 81 transition
+vertex 82 transition
+vertex 83 transition
+vertex 84 transition
+vertex 85 transition
+vertex 86 transition
+vertex 87 transition
+vertex 88 transition
+vertex 89 transition
+vertex 90 transition
+vertex 91 transition
+vertex 92 transition
+vertex 93 transition
+vertex 94 transition
+vertex 95 transition
+vertex 96 transition
+vertex 97 transition
+vertex 98 transition
+vertex 99 transition
+vertex 100 transition
+vertex 101 transition
+vertex 102 transition
+vertex 103 transition
+vertex 104 transition
+vertex 105 transition
+vertex 106 exit
+vertex 107 transition
+vertex 108 transition
+vertex 109 transition
+vertex 110 transition
+vertex 111 transition
+vertex 112 transition
+vertex 113 transition
+vertex 114 transition
+vertex 115 transition
+vertex 116 transition
+vertex 117 transition
+vertex 118 transition
+vertex 119 transition
+vertex 120 transition
+vertex 121 transition
+vertex 122 transition
+vertex 123 transition
+vertex 124 transition
+vertex 125 transition
+vertex 126 transition
+vertex 127 transition
+vertex 128 transition
+vertex 129 transition
+vertex 130 transition
+vertex 131 transition
+vertex 132 transition
+vertex 133 transition
+vertex 134 transition
+vertex 135 transition
+vertex 136 transition
+vertex 137 transition
+vertex 138 transition
+vertex 139 transition
+vertex 140 transition
+vertex 141 transition
+vertex 142 transition
+vertex 143 transition
+vertex 144 transition
+vertex 145 transition
+vertex 146 transition
+vertex 147 transition
+vertex 148 transition
+vertex 149 transition
+vertex 150 exit
+vertex 151 transition
+vertex 152 transition
+vertex 153 transition
+vertex 154 transition
+vertex 155 transition
+vertex 156 transition
+vertex 157 transition
+vertex 158 transition
+vertex 159 transition
+vertex 160 transition
+vertex 161 transition
+vertex 162 transition
+vertex 163 transition
+vertex 164 transition
+vertex 165 exit
+vertex 166 transition
+vertex 167 transition
+vertex 168 transition
+vertex 169 transition
+vertex 170 transition
+vertex 171 transition
+vertex 172 transition
+vertex 173 transition
+vertex 174 transition
+vertex 175 transition
+vertex 176 transition
+vertex 177 transition
+vertex 178 transition
+vertex 179 transition
+vertex 180 transition
+vertex 181 transition
+vertex 182 transition
+vertex 183 transition
+vertex 184 transition
+vertex 185 exit
+vertex 186 transition
+vertex 187 transition
+vertex 188 transition
+vertex 189 transition
+vertex 190 exit
+vertex 191 transition
+vertex 192 transition
+vertex 193 transition
+vertex 194 transition
+vertex 195 transition
+vertex 196 transition
+vertex 197 transition
+vertex 198 transition
+vertex 199 transition
+vertex 200 transition
+vertex 201 transition
+vertex 202 transition
+vertex 203 transition
+vertex 204 transition
+vertex 205 transition
+vertex 206 transition
+vertex 207 transition
+vertex 208 transition
+vertex 209 transition
+vertex 210 transition
+vertex 211 transition
+vertex 212 transition
+vertex 213 transition
+vertex 214 transition
+vertex 215 transition
+vertex 216 transition
+vertex 217 transition
+vertex 218 exit
+vertex 219 transition
+vertex 220 transition
+vertex 221 transition
+vertex 222 transition
+vertex 223 transition
+vertex 224 transition
+vertex 225 transition
+vertex 226 transition
+vertex 227 transition
+vertex 228 transition
+vertex 229 transition
+vertex 230 transition
+vertex 231 transition
+vertex 232 exit
+vertex 233 transition
+vertex 234 transition
+vertex 235 transition
+vertex 236 transition
+vertex 237 transition
+vertex 238 enter
+vertex 239 transition
+vertex 240 transition
+vertex 241 transition
+vertex 242 transition
+vertex 243 transition
+vertex 244 transition
+vertex 245 transition
+vertex 246 transition
+vertex 247 transition
+vertex 248 transition
+vertex 249 transition
+vertex 250 transition
+vertex 251 transition
+vertex 252 transition
+vertex 253 transition
+vertex 254 transition
+vertex 255 enter
+vertex 256 transition
+vertex 257 transition
+vertex 258 transition
+vertex 259 transition
+vertex 260 transition
+vertex 261 exit
+vertex 262 transition
+vertex 263 transition
+vertex 264 transition
+vertex 265 transition
+vertex 266 transition
+vertex 267 transition
+vertex 268 transition
+vertex 269 transition
+vertex 270 transition
+vertex 271 transition
+vertex 272 transition
+vertex 273 transition
+vertex 274 transition
+vertex 275 transition
+vertex 276 transition
+vertex 277 transition
+vertex 278 transition
+vertex 279 transition
+vertex 280 transition
+vertex 281 exit
+vertex 282 transition
+vertex 283 transition
+vertex 284 transition
+vertex 285 transition
+vertex 286 transition
+vertex 287 transition
+vertex 288 transition
+vertex 289 transition
+vertex 290 transition
+vertex 291 transition
+vertex 292 transition
+vertex 293 transition
+vertex 294 transition
+vertex 295 transition
+vertex 296 transition
+vertex 297 transition
+vertex 298 transition
+vertex 299 transition
+vertex 300 transition
+vertex 301 transition
+vertex 302 transition
+vertex 303 transition
+vertex 304 transition
+vertex 305 transition
+vertex 306 transition
+vertex 307 transition
+vertex 308 transition
+vertex 309 transition
+vertex 310 transition
+vertex 311 transition
+vertex 312 transition
+vertex 313 transition
+vertex 314 transition
+vertex 315 transition
+vertex 316 transition
+vertex 317 transition
+vertex 318 transition
+vertex 319 transition
+vertex 320 transition
+vertex 321 transition
+vertex 322 transition
+vertex 323 transition
+vertex 324 transition
+vertex 325 transition
+vertex 326 transition
+vertex 327 transition
+vertex 328 transition
+vertex 329 transition
+vertex 330 transition
+vertex 331 transition
+vertex 332 transition
+vertex 333 transition
+vertex 334 transition
+vertex 335 transition
+vertex 336 transition
+vertex 337 transition
+vertex 338 exit
+vertex 339 transition
+vertex 340 transition
+vertex 341 transition
+vertex 342 transition
+vertex 343 transition
+vertex 344 transition
+vertex 345 transition
+vertex 346 transition
+vertex 347 transition
+vertex 348 transition
+vertex 349 transition
+vertex 350 transition
+vertex 351 transition
+vertex 352 transition
+vertex 353 transition
+vertex 354 transition
+vertex 355 transition
+vertex 356 transition
+vertex 357 transition
+vertex 358 transition
+vertex 359 transition
+vertex 360 transition
+vertex 361 transition
+vertex 362 transition
+vertex 363 transition
+vertex 364 transition
+vertex 365 transition
+vertex 366 transition
+vertex 367 transition
+vertex 368 transition
+vertex 369 transition
+vertex 370 transition
+vertex 371 transition
+vertex 372 transition
+vertex 373 transition
+vertex 374 transition
+vertex 375 transition
+vertex 376 transition
+vertex 377 transition
+vertex 378 transition
+vertex 379 transition
+vertex 380 transition
+vertex 381 transition
+vertex 382 transition
+vertex 383 transition
+vertex 384 transition
+vertex 385 transition
+vertex 386 transition
+vertex 387 transition
+vertex 388 transition
+vertex 389 transition
+vertex 390 transition
+vertex 391 transition
+vertex 392 transition
+vertex 393 transition
+vertex 394 transition
+vertex 395 transition
+vertex 396 transition
+vertex 397 transition
+vertex 398 transition
+vertex 399 transition
+vertex 400 transition
+vertex 401 transition
+vertex 402 transition
+vertex 403 transition
+vertex 404 transition
+vertex 405 transition
+vertex 406 transition
+vertex 407 exit
+vertex 408 transition
+vertex 409 transition
+vertex 410 transition
+vertex 411 transition
+vertex 412 transition
+vertex 413 transition
+vertex 414 transition
+vertex 415 transition
+vertex 416 transition
+vertex 417 transition
+vertex 418 transition
+vertex 419 transition
+vertex 420 transition
+vertex 421 transition
+vertex 422 transition
+vertex 423 transition
+vertex 424 transition
+vertex 425 transition
+vertex 426 transition
+vertex 427 transition
+vertex 428 transition
+vertex 429 transition
+vertex 430 transition
+vertex 431 transition
+vertex 432 transition
+vertex 433 transition
+vertex 434 transition
+vertex 435 transition
+vertex 436 transition
+vertex 437 transition
+vertex 438 transition
+vertex 439 exit
+vertex 440 transition
+vertex 441 transition
+vertex 442 transition
+vertex 443 transition
+vertex 444 transition
+vertex 445 transition
+vertex 446 transition
+vertex 447 transition
+vertex 448 transition
+vertex 449 transition
+vertex 450 transition
+vertex 451 transition
+vertex 452 transition
+vertex 453 transition
+vertex 454 transition
+vertex 455 exit
+vertex 456 transition
+vertex 457 transition
+vertex 458 transition
+vertex 459 transition
+vertex 460 transition
+vertex 461 transition
+vertex 462 transition
+vertex 463 transition
+vertex 464 transition
+vertex 465 transition
+vertex 466 transition
+vertex 467 transition
+vertex 468 transition
+vertex 469 transition
+vertex 470 transition
+vertex 471 transition
+vertex 472 transition
+vertex 473 transition
+vertex 474 transition
+vertex 475 transition
+vertex 476 transition
+vertex 477 transition
+vertex 478 transition
+vertex 479 transition
+vertex 480 transition
+vertex 481 transition
+vertex 482 transition
+vertex 483 transition
+vertex 484 transition
+vertex 485 transition
+vertex 486 transition
+vertex 487 transition
+vertex 488 transition
+vertex 489 transition
+vertex 490 transition
+vertex 491 transition
+vertex 492 transition
+vertex 493 transition
+vertex 494 transition
+vertex 495 transition
+vertex 496 transition
+vertex 497 enter
+vertex 498 transition
+vertex 499 transition
+vertex 500 transition
+vertex 501 exit
+vertex 502 transition
+vertex 503 transition
+vertex 504 transition
+vertex 505 transition
+vertex 506 transition
+vertex 507 transition
+vertex 508 transition
+vertex 509 transition
+vertex 510 transition
+vertex 511 transition
+vertex 512 transition
+vertex 513 transition
+vertex 514 transition
+vertex 515 transition
+vertex 516 transition
+vertex 517 transition
+vertex 518 transition
+vertex 519 transition
+vertex 520 transition
+vertex 521 transition
+vertex 522 transition
+vertex 523 transition
+vertex 524 transition
+vertex 525 transition
+vertex 526 transition
+vertex 527 transition
+vertex 528 transition
+vertex 529 transition
+vertex 530 transition
+vertex 531 transition
+vertex 532 transition
+vertex 533 transition
+vertex 534 transition
+vertex 535 transition
+vertex 536 transition
+vertex 537 transition
+vertex 538 transition
+vertex 539 transition
+vertex 540 transition
+vertex 541 transition
+vertex 542 transition
+vertex 543 transition
+vertex 544 transition
+vertex 545 transition
+vertex 546 transition
+vertex 547 enter
+vertex 548 transition
+vertex 549 transition
+vertex 550 transition
+vertex 551 transition
+vertex 552 transition
+vertex 553 transition
+vertex 554 transition
+vertex 555 transition
+vertex 556 transition
+vertex 557 transition
+vertex 558 transition
+vertex 559 transition
+vertex 560 enter
+vertex 561 transition
+vertex 562 transition
+vertex 563 transition
+vertex 564 transition
+vertex 565 transition
+vertex 566 transition
+vertex 567 transition
+vertex 568 transition
+vertex 569 transition
+vertex 570 transition
+vertex 571 transition
+vertex 572 transition
+vertex 573 transition
+vertex 574 transition
+vertex 575 transition
+vertex 576 transition
+vertex 577 transition
+vertex 578 transition
+vertex 579 transition
+vertex 580 transition
+vertex 581 transition
+vertex 582 transition
+vertex 583 transition
+vertex 584 transition
+vertex 585 transition
+vertex 586 transition
+vertex 587 transition
+vertex 588 transition
+vertex 589 transition
+vertex 590 transition
+vertex 591 transition
+vertex 592 transition
+vertex 593 transition
+vertex 594 transition
+vertex 595 transition
+vertex 596 transition
+vertex 597 transition
+vertex 598 transition
+vertex 599 transition
+vertex 600 transition
+vertex 601 transition
+vertex 602 transition
+vertex 603 transition
+vertex 604 transition
+vertex 605 transition
+vertex 606 exit
+vertex 607 transition
+vertex 608 transition
+vertex 609 transition
+vertex 610 transition
+vertex 611 transition
+vertex 612 transition
+vertex 613 transition
+vertex 614 transition
+vertex 615 transition
+vertex 616 transition
+vertex 617 transition
+vertex 618 transition
+vertex 619 transition
+vertex 620 transition
+vertex 621 transition
+vertex 622 transition
+vertex 623 transition
+vertex 624 transition
+vertex 625 transition
+vertex 626 transition
+vertex 627 transition
+vertex 628 transition
+vertex 629 transition
+vertex 630 transition
+vertex 631 transition
+vertex 632 exit
+vertex 633 transition
+vertex 634 transition
+vertex 635 transition
+vertex 636 transition
+vertex 637 transition
+vertex 638 transition
+vertex 639 transition
+vertex 640 transition
+vertex 641 transition
+vertex 642 transition
+vertex 643 transition
+vertex 644 transition
+vertex 645 transition
+vertex 646 transition
+vertex 647 transition
+vertex 648 transition
+vertex 649 transition
+vertex 650 transition
+vertex 651 transition
+vertex 652 transition
+vertex 653 transition
+vertex 654 exit
+vertex 655 transition
+vertex 656 transition
+vertex 657 transition
+vertex 658 transition
+vertex 659 transition
+vertex 660 transition
+vertex 661 transition
+vertex 662 transition
+vertex 663 transition
+vertex 664 transition
+vertex 665 transition
+vertex 666 transition
+vertex 667 transition
+vertex 668 transition
+vertex 669 transition
+vertex 670 transition
+vertex 671 transition
+vertex 672 transition
+vertex 673 transition
+vertex 674 transition
+vertex 675 exit
+vertex 676 transition
+vertex 677 transition
+vertex 678 transition
+vertex 679 exit
+vertex 680 transition
+vertex 681 transition
+vertex 682 transition
+vertex 683 transition
+vertex 684 transition
+vertex 685 transition
+vertex 686 transition
+vertex 687 transition
+vertex 688 transition
+vertex 689 transition
+vertex 690 transition
+vertex 691 transition
+vertex 692 transition
+vertex 693 transition
+vertex 694 transition
+vertex 695 transition
+vertex 696 transition
+vertex 697 transition
+vertex 698 transition
+vertex 699 transition
+vertex 700 transition
+vertex 701 transition
+vertex 702 transition
+vertex 703 transition
+vertex 704 transition
+vertex 705 transition
+vertex 706 transition
+vertex 707 transition
+vertex 708 transition
+vertex 709 transition
+vertex 710 transition
+vertex 711 transition
+vertex 712 transition
+vertex 713 exit
+vertex 714 transition
+vertex 715 transition
+vertex 716 transition
+vertex 717 transition
+vertex 718 transition
+vertex 719 exit
+vertex 720 transition
+vertex 721 transition
+vertex 722 transition
+vertex 723 transition
+vertex 724 transition
+vertex 725 transition
+vertex 726 transition
+vertex 727 transition
+vertex 728 transition
+vertex 729 transition
+vertex 730 transition
+vertex 731 transition
+vertex 732 transition
+vertex 733 transition
+vertex 734 transition
+vertex 735 transition
+vertex 736 transition
+vertex 737 transition
+vertex 738 transition
+vertex 739 transition
+vertex 740 transition
+vertex 741 transition
+vertex 742 transition
+vertex 743 transition
+vertex 744 transition
+vertex 745 transition
+vertex 746 transition
+vertex 747 transition
+vertex 748 transition
+vertex 749 transition
+vertex 750 transition
+vertex 751 transition
+vertex 752 transition
+vertex 753 transition
+vertex 754 transition
+vertex 755 transition
+vertex 756 transition
+vertex 757 transition
+vertex 758 transition
+vertex 759 transition
+vertex 760 transition
+vertex 761 transition
+vertex 762 transition
+vertex 763 transition
+vertex 764 transition
+vertex 765 transition
+vertex 766 transition
+vertex 767 transition
+vertex 768 transition
+vertex 769 transition
+vertex 770 transition
+vertex 771 transition
+vertex 772 transition
+vertex 773 transition
+vertex 774 transition
+vertex 775 enter
+vertex 776 transition
+vertex 777 transition
+vertex 778 transition
+vertex 779 transition
+vertex 780 transition
+vertex 781 transition
+vertex 782 transition
+vertex 783 transition
+vertex 784 transition
+vertex 785 transition
+vertex 786 transition
+vertex 787 exit
+vertex 788 transition
+vertex 789 transition
+vertex 790 transition
+vertex 791 enter
+vertex 792 transition
+vertex 793 transition
+vertex 794 enter
+vertex 795 transition
+vertex 796 transition
+vertex 797 transition
+vertex 798 transition
+vertex 799 transition
+vertex 800 transition
+vertex 801 transition
+vertex 802 transition
+vertex 803 transition
+vertex 804 transition
+vertex 805 transition
+vertex 806 transition
+vertex 807 transition
+vertex 808 transition
+vertex 809 transition
+vertex 810 transition
+vertex 811 transition
+vertex 812 transition
+vertex 813 transition
+vertex 814 transition
+vertex 815 transition
+vertex 816 transition
+vertex 817 transition
+vertex 818 transition
+vertex 819 transition
+vertex 820 transition
+vertex 821 exit
+vertex 822 transition
+vertex 823 transition
+vertex 824 transition
+vertex 825 transition
+vertex 826 transition
+vertex 827 transition
+vertex 828 transition
+vertex 829 transition
+vertex 830 transition
+vertex 831 transition
+vertex 832 transition
+vertex 833 transition
+vertex 834 transition
+vertex 835 transition
+vertex 836 transition
+vertex 837 transition
+vertex 838 transition
+vertex 839 transition
+vertex 840 transition
+vertex 841 transition
+vertex 842 transition
+vertex 843 transition
+vertex 844 transition
+vertex 845 transition
+vertex 846 transition
+vertex 847 transition
+vertex 848 transition
+vertex 849 transition
+vertex 850 transition
+vertex 851 transition
+vertex 852 transition
+vertex 853 transition
+vertex 854 transition
+vertex 855 transition
+vertex 856 transition
+vertex 857 transition
+vertex 858 transition
+vertex 859 transition
+vertex 860 transition
+vertex 861 transition
+vertex 862 transition
+vertex 863 transition
+vertex 864 transition
+vertex 865 exit
+vertex 866 transition
+vertex 867 transition
+vertex 868 transition
+vertex 869 transition
+vertex 870 transition
+vertex 871 transition
+vertex 872 transition
+vertex 873 transition
+vertex 874 transition
+vertex 875 transition
+vertex 876 transition
+vertex 877 transition
+vertex 878 transition
+vertex 879 transition
+vertex 880 transition
+vertex 881 transition
+vertex 882 transition
+vertex 883 transition
+vertex 884 transition
+vertex 885 transition
+vertex 886 transition
+vertex 887 transition
+vertex 888 transition
+vertex 889 transition
+vertex 890 transition
+vertex 891 transition
+vertex 892 transition
+vertex 893 transition
+vertex 894 transition
+vertex 895 transition
+vertex 896 transition
+vertex 897 transition
+vertex 898 transition
+vertex 899 enter
+vertex 900 transition
+vertex 901 transition
+vertex 902 transition
+vertex 903 transition
+vertex 904 transition
+vertex 905 transition
+vertex 906 transition
+vertex 907 transition
+vertex 908 transition
+vertex 909 exit
+vertex 910 transition
+vertex 911 transition
+vertex 912 transition
+vertex 913 transition
+vertex 914 transition
+vertex 915 transition
+vertex 916 transition
+vertex 917 transition
+vertex 918 transition
+vertex 919 transition
+vertex 920 transition
+vertex 921 transition
+vertex 922 transition
+vertex 923 transition
+vertex 924 transition
+vertex 925 exit
+vertex 926 transition
+vertex 927 transition
+vertex 928 transition
+vertex 929 exit
+vertex 930 transition
+vertex 931 transition
+vertex 932 transition
+vertex 933 transition
+vertex 934 transition
+vertex 935 transition
+vertex 936 transition
+vertex 937 transition
+vertex 938 transition
+vertex 939 transition
+vertex 940 transition
+vertex 941 transition
+vertex 942 transition
+vertex 943 transition
+vertex 944 transition
+vertex 945 transition
+vertex 946 transition
+vertex 947 transition
+vertex 948 enter
+vertex 949 transition
+vertex 950 transition
+vertex 951 transition
+vertex 952 transition
+vertex 953 transition
+vertex 954 transition
+vertex 955 transition
+vertex 956 transition
+vertex 957 transition
+vertex 958 transition
+vertex 959 transition
+vertex 960 transition
+vertex 961 transition
+vertex 962 transition
+vertex 963 transition
+vertex 964 transition
+vertex 965 transition
+vertex 966 transition
+vertex 967 transition
+vertex 968 transition
+vertex 969 exit
+vertex 970 transition
+vertex 971 transition
+vertex 972 transition
+vertex 973 transition
+vertex 974 transition
+vertex 975 transition
+vertex 976 transition
+vertex 977 transition
+vertex 978 transition
+vertex 979 transition
+vertex 980 transition
+vertex 981 exit
+vertex 982 transition
+vertex 983 transition
+vertex 984 transition
+vertex 985 transition
+vertex 986 transition
+vertex 987 transition
+vertex 988 transition
+vertex 989 transition
+vertex 990 transition
+vertex 991 exit
+vertex 992 transition
+vertex 993 transition
+vertex 994 transition
+vertex 995 transition
+vertex 996 transition
+vertex 997 transition
+vertex 998 transition
+vertex 999 transition
+vertex 1000 transition
+edge 778 994 23
+edge 994 921 14
+edge 921 640 16
+edge 640 516 10
+edge 516 297 23
+edge 297 972 16
+edge 972 973 22
+edge 973 778 21
+edge 969 219 18
+edge 219 991 12
+edge 991 227 12
+edge 227 325 14
+edge 325 446 21
+edge 446 463 25
+edge 463 715 22
+edge 715 969 14
+edge 116 926 10
+edge 926 812 18
+edge 812 708 12
+edge 708 413 14
+edge 413 666 21
+edge 666 205 17
+edge 205 247 13
+edge 247 116 13
+edge 361 466 22
+edge 466 651 22
+edge 651 233 22
+edge 233 607 13
+edge 607 47 22
+edge 47 848 16
+edge 848 920 15
+edge 920 361 11
+edge 999 172 19
+edge 172 832 18
+edge 832 871 21
+edge 871 930 22
+edge 930 899 15
+edge 899 254 19
+edge 254 940 20
+edge 940 999 24
+edge 437 732 25
+edge 732 413 22
+edge 413 965 20
+edge 965 529 20
+edge 529 113 16
+edge 113 537 20
+edge 537 218 10
+edge 218 437 12
+edge 645 494 18
+edge 494 999 20
+edge 999 183 21
+edge 183 992 19
+edge 992 90 10
+edge 90 897 14
+edge 897 240 10
+edge 240 645 13
+edge 173 707 22
+edge 707 37 17
+edge 37 908 25
+edge 908 571 21
+edge 571 616 21
+edge 616 56 24
+edge 56 191 13
+edge 191 173 24
+edge 697 547 14
+edge 547 256 20
+edge 256 576 20
+edge 576 739 19
+edge 739 356 13
+edge 356 209 24
+edge 209 419 23
+edge 419 697 14
+edge 786 222 13
+edge 222 657 16
+edge 657 457 10
+edge 457 944 19
+edge 944 628 11
+edge 628 317 25
+edge 317 122 24
+edge 122 786 20
+edge 800 381 12
+edge 381 951 19
+edge 951 691 24
+edge 691 165 16
+edge 165 499 19
+edge 499 358 18
+edge 358 247 21
+edge 247 800 11
+edge 788 512 23
+edge 512 24 15
+edge 24 686 20
+edge 686 619 22
+edge 619 928 19
+edge 928 46 10
+edge 46 279 16
+edge 279 788 15
+edge 586 214 14
+edge 214 29 11
+edge 29 556 14
+edge 556 122 12
+edge 122 787 24
+edge 787 724 25
+edge 724 221 14
+edge 221 586 22
+edge 891 311 25
+edge 311 19 17
+edge 19 798 17
+edge 798 37 10
+edge 37 424 17
+edge 424 907 15
+edge 907 369 24
+edge 369 891 24
+edge 119 464 11
+edge 464 602 15
+edge 602 415 20
+edge 415 566 24
+edge 566 618 25
+edge 618 327 18
+edge 327 880 12
+edge 880 119 11
+edge 5 666 18
+edge 666 522 14
+edge 522 761 18
+edge 761 104 19
+edge 104 2 10
+edge 2 615 20
+edge 615 40 18
+edge 40 5 23
+edge 268 32 14
+edge 32 79 12
+edge 79 65 19
+edge 65 397 19
+edge 397 829 25
+edge 829 18 16
+edge 18 551 15
+edge 551 268 23
+edge 649 802 11
+edge 802 888 13
+edge 888 148 10
+edge 148 732 23
+edge 732 204 18
+edge 204 914 22
+edge 914 557 10
+edge 557 649 14
+edge 770 182 12
+edge 182 177 14
+edge 177 968 23
+edge 968 956 24
+edge 956 434 24
+edge 434 855 25
+edge 855 436 14
+edge 436 770 25
+edge 741 659 16
+edge 659 396 13
+edge 396 17 20
+edge 17 244 11
+edge 244 202 17
+edge 202 430 22
+edge 430 662 16
+edge 662 741 12
+edge 906 517 17
+edge 517 470 17
+edge 470 192 13
+edge 192 711 15
+edge 711 889 23
+edge 889 474 16
+edge 474 334 10
+edge 334 906 15
+edge 324 422 13
+edge 422 266 10
+edge 266 702 16
+edge 702 337 25
+edge 337 822 17
+edge 822 303 24
+edge 303 275 13
+edge 275 324 20
+edge 264 123 16
+edge 123 174 17
+edge 174 865 12
+edge 865 584 19
+edge 584 801 24
+edge 801 475 23
+edge 475 96 21
+edge 96 264 14
+edge 314 430 12
+edge 430 966 14
+edge 966 186 17
+edge 186 783 21
+edge 783 123 14
+edge 123 868 23
+edge 868 410 21
+edge 410 314 19
+edge 487 893 12
+edge 893 404 22
+edge 404 589 16
+edge 589 725 17
+edge 725 945 16
+edge 945 260 19
+edge 260 168 19
+edge 168 487 18
+edge 710 390 17
+edge 390 962 11
+edge 962 970 21
+edge 970 295 19
+edge 295 112 10
+edge 112 942 21
+edge 942 462 19
+edge 462 710 21
+edge 514 676 18
+edge 676 925 19
+edge 925 695 15
+edge 695 758 14
+edge 758 67 11
+edge 67 975 17
+edge 975 416 15
+edge 416 514 23
+edge 878 590 21
+edge 590 792 20
+edge 792 321 11
+edge 321 661 23
+edge 661 120 20
+edge 120 481 23
+edge 481 6 22
+edge 6 878 19
+edge 392 198 11
+edge 198 316 10
+edge 316 318 12
+edge 318 313 11
+edge 313 961 21
+edge 961 146 23
+edge 146 186 16
+edge 186 392 21
+edge 360 431 25
+edge 431 820 25
+edge 820 557 23
+edge 557 809 21
+edge 809 146 21
+edge 146 690 17
+edge 690 372 18
+edge 372 360 13
+edge 924 373 12
+edge 373 989 14
+edge 989 440 22
+edge 440 107 15
+edge 107 904 23
+edge 904 515 12
+edge 515 102 22
+edge 102 924 14
+edge 157 644 23
+edge 644 483 14
+edge 483 595 21
+edge 595 110 15
+edge 110 320 12
+edge 320 143 22
+edge 143 270 19
+edge 270 157 11
+edge 152 241 20
+edge 241 952 14
+edge 952 355 19
+edge 355 114 19
+edge 114 563 25
+edge 563 347 24
+edge 347 226 17
+edge 226 152 10
+edge 84 703 22
+edge 703 780 19
+edge 780 257 17
+edge 257 632 21
+edge 632 923 11
+edge 923 491 10
+edge 491 442 25
+edge 442 84 11
+edge 680 808 25
+edge 808 950 12
+edge 950 248 19
+edge 248 139 21
+edge 139 580 14
+edge 580 793 16
+edge 793 440 16
+edge 440 680 24
+edge 844 285 14
+edge 285 31 19
+edge 31 438 19
+edge 438 419 14
+edge 419 944 19
+edge 944 549 14
+edge 549 967 20
+edge 967 844 20
+edge 533 377 15
+edge 377 499 15
+edge 499 643 20
+edge 643 585 23
+edge 585 917 12
+edge 917 785 11
+edge 785 17 20
+edge 17 533 21
+edge 864 314 15
+edge 314 87 25
+edge 87 951 15
+edge 951 365 12
+edge 365 810 18
+edge 810 581 25
+edge 581 956 13
+edge 956 864 22
+edge 631 331 16
+edge 331 634 16
+edge 634 630 14
+edge 630 959 15
+edge 959 515 10
+edge 515 426 20
+edge 426 544 20
+edge 544 631 25
+edge 161 398 12
+edge 398 717 21
+edge 717 896 13
+edge 896 654 11
+edge 654 874 11
+edge 874 261 21
+edge 261 144 15
+edge 144 161 19
+edge 45 827 18
+edge 827 39 16
+edge 39 58 23
+edge 58 330 12
+edge 330 150 10
+edge 150 870 10
+edge 870 730 23
+edge 730 45 20
+edge 284 953 25
+edge 953 458 15
+edge 458 670 14
+edge 670 382 24
+edge 382 429 11
+edge 429 274 10
+edge 274 745 22
+edge 745 284 16
+edge 208 330 15
+edge 330 693 11
+edge 693 438 15
+edge 438 229 24
+edge 229 978 23
+edge 978 567 12
+edge 567 175 24
+edge 175 208 18
+edge 41 259 25
+edge 259 474 15
+edge 474 217 22
+edge 217 294 19
+edge 294 486 11
+edge 486 619 11
+edge 619 399 16
+edge 399 41 18
+edge 165 699 17
+edge 699 719 11
+edge 719 609 21
+edge 609 231 11
+edge 231 491 15
+edge 491 435 18
+edge 435 439 20
+edge 439 165 24
+edge 905 531 19
+edge 531 269 21
+edge 269 281 19
+edge 281 301 14
+edge 301 931 14
+edge 931 938 13
+edge 938 508 22
+edge 508 905 12
+edge 216 303 15
+edge 303 656 14
+edge 656 190 12
+edge 190 684 18
+edge 684 31 21
+edge 31 867 16
+edge 867 184 25
+edge 184 216 16
+edge 391 272 21
+edge 272 179 24
+edge 179 63 14
+edge 63 292 16
+edge 292 336 17
+edge 336 462 15
+edge 462 858 11
+edge 858 391 15
+edge 255 240 12
+edge 240 366 25
+edge 366 203 18
+edge 203 601 19
+edge 601 140 19
+edge 140 497 21
+edge 497 906 13
+edge 906 255 18
+edge 80 573 24
+edge 573 884 16
+edge 884 857 16
+edge 857 546 23
+edge 546 211 11
+edge 211 752 15
+edge 752 269 21
+edge 269 80 22
+edge 964 521 19
+edge 521 789 14
+edge 789 441 22
+edge 441 10 12
+edge 10 722 17
+edge 722 283 23
+edge 283 537 22
+edge 537 964 17
+edge 359 299 21
+edge 299 476 21
+edge 476 224 15
+edge 224 22 23
+edge 22 78 15
+edge 78 411 24
+edge 411 657 16
+edge 657 359 19
+edge 213 332 13
+edge 332 753 16
+edge 753 456 13
+edge 456 167 21
+edge 167 918 18
+edge 918 267 11
+edge 267 554 16
+edge 554 213 20
+edge 220 450 15
+edge 450 772 16
+edge 772 653 19
+edge 653 811 25
+edge 811 676 16
+edge 676 40 16
+edge 40 526 22
+edge 526 220 13
+edge 970 406 16
+edge 406 115 13
+edge 115 524 10
+edge 524 172 23
+edge 172 144 19
+edge 144 427 10
+edge 427 939 10
+edge 939 970 12
+edge 757 36 24
+edge 36 472 11
+edge 472 948 16
+edge 948 604 15
+edge 604 423 20
+edge 423 159 15
+edge 159 745 16
+edge 745 757 14
+edge 134 210 15
+edge 210 98 14
+edge 98 434 22
+edge 434 86 10
+edge 86 171 19
+edge 171 621 13
+edge 621 11 25
+edge 11 134 13
+edge 479 810 13
+edge 810 701 12
+edge 701 565 24
+edge 565 807 20
+edge 807 689 20
+edge 689 556 24
+edge 556 837 18
+edge 837 479 15
+edge 719 101 13
+edge 101 287 23
+edge 287 196 14
+edge 196 648 12
+edge 648 804 24
+edge 804 625 13
+edge 625 421 20
+edge 421 719 24
+edge 222 594 21
+edge 594 493 15
+edge 493 473 11
+edge 473 14 22
+edge 14 100 24
+edge 100 523 12
+edge 523 416 21
+edge 416 222 19
+edge 685 919 17
+edge 919 389 10
+edge 389 779 11
+edge 779 919 11
+edge 919 733 22
+edge 733 930 15
+edge 930 250 10
+edge 250 685 17
+edge 238 776 12
+edge 776 155 12
+edge 155 180 24
+edge 180 212 12
+edge 212 721 17
+edge 721 206 10
+edge 206 555 17
+edge 555 238 22
+edge 181 570 14
+edge 570 510 20
+edge 510 860 10
+edge 860 712 11
+edge 712 26 18
+edge 26 667 17
+edge 667 339 22
+edge 339 181 24
+edge 760 44 21
+edge 44 280 23
+edge 280 81 11
+edge 81 113 11
+edge 113 613 14
+edge 613 134 10
+edge 134 246 10
+edge 246 760 16
+edge 567 306 16
+edge 306 182 18
+edge 182 624 21
+edge 624 352 10
+edge 352 803 19
+edge 803 524 20
+edge 524 445 11
+edge 445 567 15
+edge 91 180 22
+edge 180 740 25
+edge 740 582 21
+edge 582 933 11
+edge 933 996 22
+edge 996 579 19
+edge 579 63 21
+edge 63 91 25
+edge 262 835 13
+edge 835 393 17
+edge 393 986 17
+edge 986 621 23
+edge 621 34 10
+edge 34 838 15
+edge 838 408 14
+edge 408 262 12
+edge 677 695 20
+edge 695 246 19
+edge 246 386 14
+edge 386 833 25
+edge 833 859 14
+edge 859 410 17
+edge 410 147 20
+edge 147 677 20
+edge 29 833 25
+edge 833 315 25
+edge 315 586 13
+edge 586 602 15
+edge 602 737 25
+edge 737 494 25
+edge 494 101 22
+edge 101 29 12
+edge 129 228 11
+edge 228 612 14
+edge 612 886 18
+edge 886 69 20
+edge 69 859 15
+edge 859 775 14
+edge 775 167 13
+edge 167 129 20
+edge 674 1000 17
+edge 1000 528 11
+edge 528 166 14
+edge 166 899 15
+edge 899 88 20
+edge 88 485 19
+edge 485 830 11
+edge 830 674 15
+edge 790 910 16
+edge 910 982 12
+edge 982 774 23
+edge 774 579 22
+edge 579 347 15
+edge 347 391 14
+edge 391 354 25
+edge 354 790 22
+edge 600 613 17
+edge 613 266 11
+edge 266 94 18
+edge 94 519 24
+edge 519 872 23
+edge 872 881 23
+edge 881 145 25
+edge 145 600 23
+edge 922 895 19
+edge 895 847 16
+edge 847 227 24
+edge 227 897 20
+edge 897 754 11
+edge 754 581 21
+edge 581 80 21
+edge 80 922 14
+edge 177 3 21
+edge 3 500 18
+edge 500 757 10
+edge 757 329 22
+edge 329 993 23
+edge 993 185 25
+edge 185 718 25
+edge 718 177 10
+edge 328 478 24
+edge 478 806 22
+edge 806 76 19
+edge 76 601 15
+edge 601 891 11
+edge 891 43 19
+edge 43 574 21
+edge 574 328 12
+edge 913 59 17
+edge 59 334 14
+edge 334 264 25
+edge 264 319 14
+edge 319 686 21
+edge 686 762 21
+edge 762 974 23
+edge 974 913 22
+edge 682 965 20
+edge 965 90 23
+edge 90 378 14
+edge 378 459 16
+edge 459 18 17
+edge 18 288 11
+edge 288 402 20
+edge 402 682 15
+edge 747 454 23
+edge 454 935 13
+edge 935 803 19
+edge 803 530 11
+edge 530 480 17
+edge 480 459 22
+edge 459 202 15
+edge 202 747 19
+edge 560 689 19
+edge 689 27 17
+edge 27 675 21
+edge 675 328 16
+edge 328 654 16
+edge 654 934 16
+edge 934 617 22
+edge 617 560 19
+edge 909 836 17
+edge 836 301 14
+edge 301 490 11
+edge 490 506 25
+edge 506 912 15
+edge 912 813 15
+edge 813 193 10
+edge 193 909 21
+edge 38 861 18
+edge 861 154 17
+edge 154 763 18
+edge 763 836 20
+edge 836 461 10
+edge 461 708 17
+edge 708 641 14
+edge 641 38 22
+edge 841 191 11
+edge 191 558 20
+edge 558 95 13
+edge 95 664 17
+edge 664 376 20
+edge 376 340 25
+edge 340 244 17
+edge 244 841 10
+edge 826 904 20
+edge 904 164 13
+edge 164 605 17
+edge 605 396 24
+edge 396 534 15
+edge 534 471 14
+edge 471 96 22
+edge 96 826 16
+edge 578 124 12
+edge 124 229 17
+edge 229 92 20
+edge 92 648 11
+edge 648 849 14
+edge 849 523 12
+edge 523 26 14
+edge 26 578 14
+edge 272 366 25
+edge 366 479 18
+edge 479 929 16
+edge 929 125 24
+edge 125 750 11
+edge 750 492 25
+edge 492 670 23
+edge 670 272 20
+edge 550 127 13
+edge 127 436 14
+edge 436 178 14
+edge 178 359 25
+edge 359 592 15
+edge 592 321 12
+edge 321 741 19
+edge 741 550 20
+edge 842 982 15
+edge 982 84 14
+edge 84 851 22
+edge 851 417 17
+edge 417 995 14
+edge 995 161 24
+edge 161 680 17
+edge 680 842 24
+edge 983 488 24
+edge 488 277 11
+edge 277 54 24
+edge 54 731 25
+edge 731 929 25
+edge 929 420 17
+edge 420 839 18
+edge 839 983 16
+edge 271 513 24
+edge 513 298 21
+edge 298 20 23
+edge 20 553 15
+edge 553 925 17
+edge 925 911 23
+edge 911 197 16
+edge 197 271 15
+edge 844 454 16
+edge 454 451 23
+edge 451 596 22
+edge 596 596 16
+edge 596 952 16
+edge 952 748 12
+edge 748 115 24
+edge 115 844 16
+edge 788 249 18
+edge 249 465 10
+edge 465 108 12
+edge 108 307 17
+edge 307 550 22
+edge 550 379 22
+edge 379 442 24
+edge 442 788 18
+edge 294 245 20
+edge 245 838 17
+edge 838 382 16
+edge 382 259 22
+edge 259 647 19
+edge 647 935 15
+edge 935 187 24
+edge 187 294 22
+edge 991 738 18
+edge 738 540 24
+edge 540 622 18
+edge 622 310 19
+edge 310 735 24
+edge 735 61 19
+edge 61 598 23
+edge 598 991 20
+edge 447 252 13
+edge 252 749 16
+edge 749 300 15
+edge 300 28 20
+edge 28 525 13
+edge 525 1 19
+edge 1 549 10
+edge 549 447 12
+edge 322 599 24
+edge 599 924 23
+edge 924 273 13
+edge 273 129 11
+edge 129 126 12
+edge 126 835 21
+edge 835 533 11
+edge 533 322 10
+edge 114 980 10
+edge 980 531 25
+edge 531 894 13
+edge 894 337 11
+edge 337 492 19
+edge 492 652 22
+edge 652 232 24
+edge 232 114 14
+edge 884 103 17
+edge 103 750 23
+edge 750 823 12
+edge 823 118 19
+edge 118 453 21
+edge 453 681 23
+edge 681 805 13
+edge 805 884 10
+edge 439 407 24
+edge 407 769 14
+edge 769 918 11
+edge 918 300 17
+edge 300 213 25
+edge 213 160 19
+edge 160 506 23
+edge 506 439 10
+edge 778 231 11
+edge 231 687 11
+edge 687 422 21
+edge 422 9 15
+edge 9 638 11
+edge 638 699 19
+edge 699 151 15
+edge 151 778 12
+edge 728 510 11
+edge 510 393 25
+edge 393 187 17
+edge 187 206 13
+edge 206 849 18
+edge 849 992 14
+edge 992 626 24
+edge 626 728 13
+edge 808 998 14
+edge 998 268 17
+edge 268 449 21
+edge 449 495 15
+edge 495 349 22
+edge 349 694 22
+edge 694 441 14
+edge 441 808 16
+edge 876 760 18
+edge 760 450 18
+edge 450 235 16
+edge 235 455 14
+edge 455 42 20
+edge 42 642 11
+edge 642 851 16
+edge 851 876 25
+edge 815 255 10
+edge 255 66 12
+edge 66 12 18
+edge 12 110 16
+edge 110 425 12
+edge 425 885 15
+edge 885 742 17
+edge 742 815 13
+edge 949 131 23
+edge 131 513 23
+edge 513 368 10
+edge 368 598 22
+edge 598 44 16
+edge 44 721 19
+edge 721 726 20
+edge 726 949 25
+edge 759 877 12
+edge 877 805 24
+edge 805 11 21
+edge 11 850 20
+edge 850 351 21
+edge 351 668 14
+edge 668 847 19
+edge 847 759 23
+edge 564 299 17
+edge 299 452 23
+edge 452 509 10
+edge 509 62 11
+edge 62 405 17
+edge 405 633 25
+edge 633 623 12
+edge 623 564 25
+edge 763 530 19
+edge 530 139 18
+edge 139 141 10
+edge 141 665 20
+edge 665 15 18
+edge 15 398 10
+edge 398 512 19
+edge 512 763 16
+edge 276 258 11
+edge 258 996 11
+edge 996 502 23
+edge 502 994 20
+edge 994 593 12
+edge 593 548 20
+edge 548 317 14
+edge 317 276 18
+edge 990 660 25
+edge 660 428 25
+edge 428 476 12
+edge 476 495 19
+edge 495 946 13
+edge 946 816 20
+edge 816 656 13
+edge 656 990 14
+edge 192 912 12
+edge 912 583 12
+edge 583 827 25
+edge 827 837 21
+edge 837 289 25
+edge 289 387 21
+edge 387 792 16
+edge 792 192 19
+edge 863 663 19
+edge 663 727 19
+edge 727 766 25
+edge 766 542 21
+edge 542 82 11
+edge 82 986 18
+edge 986 768 23
+edge 768 863 10
+edge 105 338 22
+edge 338 201 17
+edge 201 900 13
+edge 900 340 18
+edge 340 357 16
+edge 357 993 19
+edge 993 895 23
+edge 895 105 12
+edge 739 445 15
+edge 445 296 17
+edge 296 564 18
+edge 564 117 17
+edge 117 322 13
+edge 322 52 14
+edge 52 787 24
+edge 787 739 12
+edge 423 875 12
+edge 875 747 21
+edge 747 590 18
+edge 590 362 17
+edge 362 285 12
+edge 285 977 11
+edge 977 433 15
+edge 433 423 10
+edge 312 209 22
+edge 209 121 22
+edge 121 628 16
+edge 628 360 13
+edge 360 553 15
+edge 553 967 22
+edge 967 927 15
+edge 927 312 12
+edge 539 296 13
+edge 296 453 19
+edge 453 784 23
+edge 784 68 23
+edge 68 21 24
+edge 21 954 17
+edge 954 108 25
+edge 108 539 25
+edge 248 414 19
+edge 414 547 24
+edge 547 181 23
+edge 181 133 11
+edge 133 201 10
+edge 201 701 14
+edge 701 714 11
+edge 714 248 25
+edge 36 611 14
+edge 611 973 13
+edge 973 796 14
+edge 796 890 15
+edge 890 188 22
+edge 188 990 22
+edge 990 642 17
+edge 642 36 15
+edge 331 159 16
+edge 159 345 12
+edge 345 796 10
+edge 796 210 13
+edge 210 765 10
+edge 765 429 16
+edge 429 460 21
+edge 460 331 17
+edge 784 502 19
+edge 502 655 21
+edge 655 606 20
+edge 606 34 10
+edge 34 705 16
+edge 705 902 23
+edge 902 751 20
+edge 751 784 20
+edge 720 24 14
+edge 24 791 24
+edge 791 977 20
+edge 977 394 25
+edge 394 175 17
+edge 175 751 10
+edge 751 417 22
+edge 417 720 24
+edge 33 302 18
+edge 302 797 16
+edge 797 158 24
+edge 158 106 21
+edge 106 316 13
+edge 316 385 20
+edge 385 189 20
+edge 189 33 16
+edge 385 51 11
+edge 51 98 21
+edge 98 573 12
+edge 573 682 18
+edge 682 433 22
+edge 433 690 25
+edge 690 171 16
+edge 171 385 25
+edge 643 121 15
+edge 121 284 18
+edge 284 717 22
+edge 717 797 18
+edge 797 148 25
+edge 148 306 14
+edge 306 733 14
+edge 733 643 24
+edge 4 373 25
+edge 373 371 16
+edge 371 443 11
+edge 443 276 17
+edge 276 940 25
+edge 940 607 20
+edge 607 432 16
+edge 432 4 13
+edge 622 655 25
+edge 655 867 11
+edge 867 369 13
+edge 369 199 22
+edge 199 620 15
+edge 620 447 20
+edge 447 256 23
+edge 256 622 20
+edge 916 409 23
+edge 409 184 14
+edge 184 723 22
+edge 723 319 16
+edge 319 400 13
+edge 400 497 18
+edge 497 826 15
+edge 826 916 16
+edge 262 135 12
+edge 135 136 18
+edge 136 804 10
+edge 804 696 19
+edge 696 273 24
+edge 273 955 19
+edge 955 65 20
+edge 65 262 23
+edge 955 77 21
+edge 77 909 13
+edge 909 669 12
+edge 669 384 10
+edge 384 664 25
+edge 664 472 25
+edge 472 961 13
+edge 961 955 10
+edge 199 722 11
+edge 722 153 10
+edge 153 958 18
+edge 958 468 22
+edge 468 877 14
+edge 877 342 15
+edge 342 926 20
+edge 926 199 16
+edge 194 987 18
+edge 987 83 23
+edge 83 705 18
+edge 705 672 11
+edge 672 109 20
+edge 109 997 13
+edge 997 578 24
+edge 578 194 24
+edge 111 723 17
+edge 723 8 18
+edge 8 673 13
+edge 673 667 13
+edge 667 56 20
+edge 56 831 25
+edge 831 740 12
+edge 740 111 22
+edge 443 746 14
+edge 746 737 24
+edge 737 198 14
+edge 198 936 12
+edge 936 290 24
+edge 290 43 14
+edge 43 824 23
+edge 824 443 21
+edge 168 194 17
+edge 194 963 19
+edge 963 743 22
+edge 743 374 14
+edge 374 775 14
+edge 775 486 24
+edge 486 225 14
+edge 225 168 13
+edge 795 344 19
+edge 344 822 13
+edge 822 764 18
+edge 764 706 15
+edge 706 493 18
+edge 493 603 25
+edge 603 484 23
+edge 484 795 16
+edge 92 606 10
+edge 606 758 25
+edge 758 99 11
+edge 99 481 11
+edge 481 455 10
+edge 455 834 25
+edge 834 928 12
+edge 928 92 12
+edge 119 78 13
+edge 78 552 11
+edge 552 971 14
+edge 971 862 18
+edge 862 339 19
+edge 339 782 17
+edge 782 583 16
+edge 583 119 12
+edge 521 872 11
+edge 872 983 22
+edge 983 597 13
+edge 597 888 16
+edge 888 236 16
+edge 236 509 25
+edge 509 639 17
+edge 639 521 11
+edge 814 280 12
+edge 280 446 12
+edge 446 252 23
+edge 252 627 20
+edge 627 152 22
+edge 152 329 13
+edge 329 700 25
+edge 700 814 10
+edge 671 400 25
+edge 400 278 11
+edge 278 853 17
+edge 853 641 20
+edge 641 220 19
+edge 220 348 11
+edge 348 635 17
+edge 635 671 15
+edge 772 528 22
+edge 528 477 22
+edge 477 381 18
+edge 381 375 10
+edge 375 71 11
+edge 71 636 24
+edge 636 30 23
+edge 30 772 17
+edge 315 170 10
+edge 170 536 19
+edge 536 232 20
+edge 232 503 24
+edge 503 576 17
+edge 576 221 19
+edge 221 320 24
+edge 320 315 10
+edge 572 163 12
+edge 163 652 11
+edge 652 234 19
+edge 234 734 12
+edge 734 189 10
+edge 189 461 12
+edge 461 411 15
+edge 411 572 24
+edge 971 102 15
+edge 102 569 18
+edge 569 70 17
+edge 70 345 17
+edge 345 279 14
+edge 279 127 23
+edge 127 962 20
+edge 962 971 25
+edge 333 136 24
+edge 136 776 25
+edge 776 527 23
+edge 527 520 19
+edge 520 616 22
+edge 616 896 14
+edge 896 94 24
+edge 94 333 17
+edge 915 536 25
+edge 536 498 21
+edge 498 984 16
+edge 984 779 19
+edge 779 387 20
+edge 387 976 10
+edge 976 713 10
+edge 713 915 21
+edge 104 8 12
+edge 8 934 24
+edge 934 336 21
+edge 336 514 11
+edge 514 566 11
+edge 566 821 23
+edge 821 100 14
+edge 100 104 19
+edge 756 448 23
+edge 448 73 18
+edge 73 650 18
+edge 650 195 20
+edge 195 432 15
+edge 432 215 12
+edge 215 612 17
+edge 612 756 13
+edge 857 532 24
+edge 532 773 23
+edge 773 829 13
+edge 829 238 21
+edge 238 767 11
+edge 767 75 11
+edge 75 475 19
+edge 475 857 11
+edge 401 20 18
+edge 20 855 24
+edge 855 600 15
+edge 600 683 22
+edge 683 64 25
+edge 64 437 14
+edge 437 968 22
+edge 968 401 19
+edge 937 724 17
+edge 724 47 14
+edge 47 415 14
+edge 415 236 13
+edge 236 344 23
+edge 344 327 20
+edge 327 873 10
+edge 873 937 17
+edge 128 125 19
+edge 125 769 20
+edge 769 53 22
+edge 53 224 12
+edge 224 431 22
+edge 431 160 22
+edge 160 989 14
+edge 989 128 10
+edge 140 477 24
+edge 477 637 14
+edge 637 174 16
+edge 174 72 20
+edge 72 374 19
+edge 374 278 19
+edge 278 702 25
+edge 702 140 23
+edge 35 138 23
+edge 138 230 18
+edge 230 866 16
+edge 866 730 10
+edge 730 38 14
+edge 38 802 12
+edge 802 52 10
+edge 52 35 22
+edge 458 427 14
+edge 427 552 14
+edge 552 67 25
+edge 67 914 15
+edge 914 211 15
+edge 211 118 16
+edge 118 151 25
+edge 151 458 17
+edge 311 595 20
+edge 595 886 18
+edge 886 466 10
+edge 466 216 11
+edge 216 69 15
+edge 69 915 20
+edge 915 546 11
+edge 546 311 14
+edge 249 798 18
+edge 798 964 11
+edge 964 661 13
+edge 661 828 16
+edge 828 176 19
+edge 176 939 14
+edge 939 936 16
+edge 936 249 11
+edge 501 718 24
+edge 718 473 21
+edge 473 540 20
+edge 540 562 14
+edge 562 632 11
+edge 632 927 24
+edge 927 885 16
+edge 885 501 14
+edge 277 818 14
+edge 818 162 22
+edge 162 412 14
+edge 412 286 16
+edge 286 207 12
+edge 207 97 25
+edge 97 815 16
+edge 815 277 21
+edge 870 130 20
+edge 130 225 17
+edge 225 561 11
+edge 561 972 25
+edge 972 388 17
+edge 388 489 17
+edge 489 649 14
+edge 649 870 10
+edge 169 505 21
+edge 505 85 20
+edge 85 71 16
+edge 71 435 22
+edge 435 173 10
+edge 173 658 23
+edge 658 27 15
+edge 27 169 24
+edge 468 688 18
+edge 688 846 17
+edge 846 496 17
+edge 496 674 17
+edge 674 141 12
+edge 141 587 10
+edge 587 678 19
+edge 678 468 25
+edge 380 887 19
+edge 887 720 14
+edge 720 223 13
+edge 223 913 24
+edge 913 997 18
+edge 997 203 25
+edge 203 527 19
+edge 527 380 16
+edge 117 830 13
+edge 830 875 18
+edge 875 13 21
+edge 13 483 16
+edge 483 597 20
+edge 597 59 15
+edge 59 645 20
+edge 645 117 19
+edge 149 881 18
+edge 881 342 22
+edge 342 42 15
+edge 42 806 23
+edge 806 685 20
+edge 685 711 24
+edge 711 343 23
+edge 343 149 25
+edge 48 482 10
+edge 482 630 25
+edge 630 639 14
+edge 639 363 24
+edge 363 614 19
+edge 614 794 18
+edge 794 480 23
+edge 480 48 22
+edge 998 86 18
+edge 86 762 12
+edge 762 558 20
+edge 558 335 12
+edge 335 511 19
+edge 511 584 21
+edge 584 109 25
+edge 109 998 12
+edge 305 291 19
+edge 291 560 10
+edge 560 572 22
+edge 572 363 11
+edge 363 866 10
+edge 866 271 12
+edge 271 726 21
+edge 726 305 21
+edge 1 470 16
+edge 470 879 15
+edge 879 226 15
+edge 226 287 25
+edge 287 234 16
+edge 234 469 18
+edge 469 988 23
+edge 988 1 24
+edge 984 195 25
+edge 195 282 14
+edge 282 807 24
+edge 807 907 10
+edge 907 679 20
+edge 679 623 10
+edge 623 774 17
+edge 774 984 18
+edge 692 868 13
+edge 868 535 14
+edge 535 555 25
+edge 555 954 24
+edge 954 501 13
+edge 501 142 22
+edge 142 591 20
+edge 591 692 13
+edge 425 752 17
+edge 752 825 25
+edge 825 91 19
+edge 91 793 20
+edge 793 865 18
+edge 865 170 10
+edge 170 651 19
+edge 651 425 17
+edge 518 260 20
+edge 260 323 11
+edge 323 62 12
+edge 62 698 21
+edge 698 12 20
+edge 12 620 14
+edge 620 390 18
+edge 390 518 13
+edge 882 627 15
+edge 627 887 24
+edge 887 361 18
+edge 361 746 25
+edge 746 349 24
+edge 349 817 14
+edge 817 414 20
+edge 414 882 20
+edge 716 923 10
+edge 923 409 13
+edge 409 73 14
+edge 73 142 11
+edge 142 839 15
+edge 839 254 13
+edge 254 863 12
+edge 863 716 15
+edge 215 633 21
+edge 633 93 11
+edge 93 233 23
+edge 233 61 17
+edge 61 395 10
+edge 395 343 18
+edge 343 932 12
+edge 932 215 21
+edge 295 488 19
+edge 488 358 13
+edge 358 53 18
+edge 53 32 15
+edge 32 401 12
+edge 401 946 18
+edge 946 840 13
+edge 840 295 14
+edge 538 731 18
+edge 731 710 13
+edge 710 634 25
+edge 634 508 19
+edge 508 64 24
+edge 64 505 11
+edge 505 755 21
+edge 755 538 18
+edge 162 128 21
+edge 128 569 21
+edge 569 386 19
+edge 386 522 11
+edge 522 629 20
+edge 629 712 21
+edge 712 193 16
+edge 193 162 20
+edge 890 591 12
+edge 591 949 16
+edge 949 794 18
+edge 794 380 20
+edge 380 394 11
+edge 394 683 13
+edge 683 250 16
+edge 250 890 12
+edge 57 544 24
+edge 544 960 17
+edge 960 931 12
+edge 931 736 18
+edge 736 917 11
+edge 917 16 22
+edge 16 478 15
+edge 478 57 14
+edge 770 370 17
+edge 370 158 17
+edge 158 761 13
+edge 761 744 15
+edge 744 575 17
+edge 575 3 25
+edge 3 237 12
+edge 237 770 13
+edge 137 55 18
+edge 55 577 19
+edge 577 50 12
+edge 50 625 17
+edge 625 281 21
+edge 281 615 21
+edge 615 673 14
+edge 673 137 25
+edge 412 563 14
+edge 563 368 21
+edge 368 840 18
+edge 840 565 23
+edge 565 126 11
+edge 126 124 21
+edge 124 402 10
+edge 402 412 11
+edge 332 507 12
+edge 507 987 10
+edge 987 658 13
+edge 658 933 11
+edge 933 608 17
+edge 608 132 14
+edge 132 487 21
+edge 487 332 21
+edge 77 893 11
+edge 893 265 14
+edge 265 585 25
+edge 585 771 13
+edge 771 941 23
+edge 941 860 20
+edge 860 351 24
+edge 351 77 24
+edge 799 28 19
+edge 28 467 15
+edge 467 235 10
+edge 235 354 19
+edge 354 858 11
+edge 858 482 14
+edge 482 820 14
+edge 820 799 22
+edge 869 937 13
+edge 937 49 19
+edge 49 308 22
+edge 308 526 11
+edge 526 853 21
+edge 853 66 14
+edge 66 754 21
+edge 754 869 16
+edge 185 945 10
+edge 945 559 24
+edge 559 978 17
+edge 978 725 14
+edge 725 823 17
+edge 823 903 13
+edge 903 217 12
+edge 217 185 25
+edge 324 845 18
+edge 845 873 24
+edge 873 58 22
+edge 58 105 22
+edge 105 883 17
+edge 883 781 12
+edge 781 911 10
+edge 911 324 11
+edge 218 809 17
+edge 809 208 18
+edge 208 309 17
+edge 309 93 22
+edge 93 404 24
+edge 404 428 15
+edge 428 116 11
+edge 116 218 10
+edge 384 921 20
+edge 921 559 12
+edge 559 577 16
+edge 577 985 15
+edge 985 364 21
+edge 364 728 16
+edge 728 845 18
+edge 845 384 22
+edge 288 87 17
+edge 87 771 24
+edge 771 22 10
+edge 22 138 13
+edge 138 744 25
+edge 744 1000 10
+edge 1000 941 19
+edge 941 288 21
+edge 188 575 17
+edge 575 353 25
+edge 353 976 24
+edge 976 980 16
+edge 980 979 18
+edge 979 637 17
+edge 637 908 20
+edge 908 188 21
+edge 10 587 11
+edge 587 21 13
+edge 21 879 23
+edge 879 548 25
+edge 548 333 19
+edge 333 817 12
+edge 817 920 14
+edge 920 10 14
+edge 5 242 23
+edge 242 49 13
+edge 49 647 23
+edge 647 496 25
+edge 496 257 14
+edge 257 843 23
+edge 843 842 15
+edge 842 5 18
+edge 874 54 20
+edge 54 261 24
+edge 261 604 21
+edge 604 816 17
+edge 816 372 21
+edge 372 326 22
+edge 326 554 11
+edge 554 874 18
+edge 759 950 22
+edge 950 735 14
+edge 735 424 11
+edge 424 243 20
+edge 243 89 22
+edge 89 551 18
+edge 551 74 25
+edge 74 759 16
+edge 852 9 15
+edge 9 610 17
+edge 610 444 12
+edge 444 765 24
+edge 765 525 19
+edge 525 529 17
+edge 529 365 22
+edge 365 852 16
+edge 112 388 16
+edge 388 214 12
+edge 214 650 12
+edge 650 50 23
+edge 50 777 18
+edge 777 825 20
+edge 825 814 22
+edge 814 112 11
+edge 541 166 23
+edge 166 545 14
+edge 545 133 17
+edge 133 734 13
+edge 734 580 10
+edge 580 23 19
+edge 23 383 10
+edge 383 541 20
+edge 947 323 16
+edge 323 905 14
+edge 905 511 22
+edge 511 755 21
+edge 755 541 16
+edge 541 692 24
+edge 692 418 19
+edge 418 947 19
+edge 957 969 10
+edge 969 518 12
+edge 518 79 19
+edge 79 959 25
+edge 959 308 25
+edge 308 310 13
+edge 310 981 21
+edge 981 957 16
+edge 403 942 24
+edge 942 791 15
+edge 791 713 25
+edge 713 7 12
+edge 7 638 14
+edge 638 350 20
+edge 350 975 17
+edge 975 403 22
+edge 753 617 12
+edge 617 783 24
+edge 783 70 22
+edge 70 68 16
+edge 68 841 22
+edge 841 355 21
+edge 355 456 23
+edge 456 753 11
+edge 293 99 25
+edge 99 326 14
+edge 326 669 14
+edge 669 489 18
+edge 489 467 10
+edge 467 135 21
+edge 135 698 11
+edge 698 293 18
+edge 782 703 12
+edge 703 399 19
+edge 399 150 16
+edge 150 325 20
+edge 325 736 19
+edge 736 892 24
+edge 892 687 10
+edge 687 782 15
+edge 23 864 14
+edge 864 137 21
+edge 137 55 23
+edge 55 709 16
+edge 709 889 15
+edge 889 663 23
+edge 663 377 24
+edge 377 23 15
+edge 729 346 16
+edge 346 532 13
+edge 532 668 23
+edge 668 582 22
+edge 582 789 23
+edge 789 535 25
+edge 535 7 23
+edge 7 729 23
+edge 716 239 17
+edge 239 14 21
+edge 14 609 18
+edge 609 678 12
+edge 678 81 16
+edge 81 389 11
+edge 389 901 23
+edge 901 716 19
+edge 898 350 24
+edge 350 957 20
+edge 957 611 10
+edge 611 156 19
+edge 156 660 12
+edge 660 824 22
+edge 824 154 12
+edge 154 898 20
+edge 367 25 22
+edge 25 704 15
+edge 704 568 11
+edge 568 156 13
+edge 156 599 17
+edge 599 821 14
+edge 821 519 23
+edge 519 367 13
+edge 681 164 23
+edge 164 568 11
+edge 568 988 14
+edge 988 251 23
+edge 251 932 18
+edge 932 95 10
+edge 95 464 17
+edge 464 681 22
+edge 574 974 12
+edge 974 484 12
+edge 484 89 13
+edge 89 111 15
+edge 111 107 14
+edge 107 635 18
+edge 635 253 11
+edge 253 574 17
+edge 51 981 23
+edge 981 143 10
+edge 143 219 25
+edge 219 561 25
+edge 561 644 25
+edge 644 516 24
+edge 516 163 22
+edge 163 51 17
+edge 57 426 15
+edge 426 966 17
+edge 966 694 13
+edge 694 693 24
+edge 693 729 12
+edge 729 451 17
+edge 451 420 11
+edge 420 57 19
+edge 819 543 15
+edge 543 85 13
+edge 85 948 23
+edge 948 228 12
+edge 228 352 23
+edge 352 275 23
+edge 275 357 24
+edge 357 819 20
+edge 406 696 11
+edge 696 856 16
+edge 856 910 13
+edge 910 848 21
+edge 848 624 21
+edge 624 270 15
+edge 270 490 13
+edge 490 406 12
+edge 286 916 16
+edge 916 4 15
+edge 4 60 19
+edge 60 253 13
+edge 253 766 22
+edge 766 157 13
+edge 157 283 20
+edge 283 286 12
+edge 691 727 11
+edge 727 469 15
+edge 469 82 16
+edge 82 15 17
+edge 15 688 24
+edge 688 370 24
+edge 370 304 20
+edge 304 691 22
+edge 176 457 18
+edge 457 258 22
+edge 258 75 10
+edge 75 636 13
+edge 636 876 23
+edge 876 943 17
+edge 943 768 24
+edge 768 176 14
+edge 892 520 21
+edge 520 378 18
+edge 378 832 22
+edge 832 39 18
+edge 39 773 22
+edge 773 304 21
+edge 304 356 15
+edge 356 892 23
+edge 831 610 13
+edge 610 659 16
+edge 659 72 15
+edge 72 379 22
+edge 379 880 21
+edge 880 795 20
+edge 795 571 25
+edge 571 831 11
+edge 504 460 18
+edge 460 19 14
+edge 19 545 16
+edge 545 178 10
+edge 178 697 21
+edge 697 407 13
+edge 407 145 21
+edge 145 504 16
+edge 263 938 23
+edge 938 677 21
+edge 677 307 13
+edge 307 562 17
+edge 562 132 21
+edge 132 943 13
+edge 943 292 22
+edge 292 263 11
+edge 922 120 25
+edge 120 197 13
+edge 197 756 18
+edge 756 812 15
+edge 812 570 12
+edge 570 883 13
+edge 883 274 14
+edge 274 922 10
+edge 813 418 18
+edge 418 74 23
+edge 74 405 21
+edge 405 35 23
+edge 35 2 16
+edge 2 979 21
+edge 979 714 15
+edge 714 813 10
+edge 302 707 11
+edge 707 684 23
+edge 684 738 10
+edge 738 485 23
+edge 485 715 19
+edge 715 781 18
+edge 781 593 14
+edge 593 302 14
+edge 767 764 14
+edge 764 243 15
+edge 243 504 15
+edge 504 48 22
+edge 48 631 13
+edge 631 263 19
+edge 263 626 24
+edge 626 767 17
+edge 862 364 11
+edge 364 777 25
+edge 777 671 20
+edge 671 785 12
+edge 785 507 10
+edge 507 421 25
+edge 421 290 21
+edge 290 862 18
+edge 408 371 14
+edge 371 900 18
+edge 900 592 13
+edge 592 542 18
+edge 542 338 10
+edge 338 309 24
+edge 309 603 15
+edge 603 408 17
+edge 594 297 23
+edge 297 498 25
+edge 498 706 19
+edge 706 183 18
+edge 183 985 22
+edge 985 588 18
+edge 588 131 22
+edge 131 594 21
+edge 30 882 18
+edge 882 291 10
+edge 291 662 22
+edge 662 646 21
+edge 646 241 23
+edge 241 444 10
+edge 444 856 14
+edge 856 30 20
+edge 97 346 12
+edge 346 517 23
+edge 517 362 19
+edge 362 204 25
+edge 204 854 17
+edge 854 953 12
+edge 953 289 20
+edge 289 97 22
+edge 465 293 10
+edge 293 960 10
+edge 960 679 13
+edge 679 76 14
+edge 76 539 25
+edge 539 448 15
+edge 448 618 23
+edge 618 465 23
+edge 6 903 17
+edge 903 614 21
+edge 614 958 15
+edge 958 212 17
+edge 212 395 16
+edge 395 869 17
+edge 869 588 22
+edge 588 6 15
+edge 629 237 25
+edge 237 313 15
+edge 313 251 18
+edge 251 463 18
+edge 463 799 20
+edge 799 749 19
+edge 749 242 19
+edge 242 629 16
+edge 500 790 18
+edge 790 709 16
+edge 709 13 17
+edge 13 828 21
+edge 828 653 11
+edge 653 843 11
+edge 843 106 10
+edge 106 500 22
+edge 901 312 19
+edge 312 742 10
+edge 742 318 13
+edge 318 898 20
+edge 898 743 22
+edge 743 871 10
+edge 871 267 21
+edge 267 901 17
+edge 353 46 17
+edge 46 850 25
+edge 850 672 16
+edge 672 503 14
+edge 503 902 22
+edge 902 646 19
+edge 646 155 22
+edge 155 353 21
+edge 147 207 25
+edge 207 16 24
+edge 16 675 23
+edge 675 60 18
+edge 60 376 12
+edge 376 200 25
+edge 200 852 22
+edge 852 147 11
+edge 704 45 20
+edge 45 103 20
+edge 103 367 24
+edge 367 149 19
+edge 149 665 13
+edge 665 640 17
+edge 640 239 20
+edge 239 704 22
+edge 786 298 25
+edge 298 818 22
+edge 818 543 12
+edge 543 801 20
+edge 801 245 24
+edge 245 963 18
+edge 963 608 24
+edge 608 786 22
+edge 375 800 24
+edge 800 383 25
+edge 383 348 15
+edge 348 819 12
+edge 819 223 16
+edge 223 748 18
+edge 748 169 21
+edge 169 375 21
+edge 397 130 25
+edge 130 878 18
+edge 878 205 24
+edge 205 452 19
+edge 452 179 19
+edge 179 153 10
+edge 153 534 22
+edge 534 397 17
+edge 449 854 25
+edge 854 780 21
+edge 780 392 20
+edge 392 995 13
+edge 995 700 10
+edge 700 834 12
+edge 834 83 24
+edge 83 449 11
+edge 33 265 24
+edge 265 41 18
+edge 41 335 21
+edge 335 589 19
+edge 589 200 21
+edge 200 230 21
+edge 230 282 12
+edge 282 33 21
+edge 605 25 19
+edge 25 947 12
+edge 947 403 16
+edge 403 190 12
+edge 190 894 24
+edge 894 341 11
+edge 341 471 15
+edge 471 605 12
+edge 305 88 18
+edge 88 341 14
+edge 341 538 18
+edge 538 846 15
+edge 846 196 12
+edge 196 811 13
+edge 811 861 19
+edge 861 305 14

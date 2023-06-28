@@ -29,10 +29,14 @@
     "├────────────────────────────────┤\n"   \
     "│ 11. Minimum spanning tree      │\n"   \
     "├────────────────────────────────┤\n"   \
-    "│ 12. Exit program               │\n"   \
+    "│ 12. Import from file           │\n"   \
+    "├────────────────────────────────┤\n"   \
+    "│ 13. Dump graph into file       │\n"   \
+    "├────────────────────────────────┤\n"   \
+    "│ 14. Exit program               │\n"   \
     "└────────────────────────────────┘\n"   \
     "\n"                                     \
-    "Type your option from 1 to 12, then press ENTER: "
+    "Type your option from 1 to 14, then press ENTER: "
 
 void initMenu(Graph *graph);
 
@@ -47,6 +51,8 @@ int mPrintPicture(Graph *graph);
 int mReachabilityCheck(Graph *graph);
 int mShortestPath(Graph *graph);
 int mMinimumSpanningTree(Graph *graph);
+int mImport(Graph *graph);
+int mDump(Graph *graph);
 int mExit();
 
 static int (*opts[])(Graph *) = {
@@ -61,6 +67,8 @@ static int (*opts[])(Graph *) = {
         mReachabilityCheck,
         mShortestPath,
         mMinimumSpanningTree,
+        mImport,
+        mDump,
         mExit
 };
 

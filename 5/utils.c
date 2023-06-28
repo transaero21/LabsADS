@@ -43,6 +43,41 @@ int readInt(int *i, int(*verify)(int)) {
     return 1;
 }
 
+int getFile(FILE **file, const char *mode) {
+    char *filename;
+    int ret = 0;
+
+    printf("Enter path to the file to work with: ");
+    do {
+        filename = readLine(stdin);
+        if (!filename) break;
+        if (!(*file = fopen(filename, mode))) {
+            printf("Failed to open %s, try again: ", filename);
+        } else ret = 1;
+        free(filename);
+    } while (!*file);
+
+    return ret;
+}
+
+void toLower(char *string) {
+    for (char *i = string; *i; i++) *i = *i | 32;
+}
+
+int stringToInt(const char* string, int *i) {
+    int j = string[0] != '-' ? 0 : 1, isMinus = j;
+    *i = 0;
+
+    for (; string[j]; j++) {
+        if ('0' > string[j] || string[j] > '9') return 0;
+        *i *= 10;
+        *i += string[j] - '0';
+    }
+    if (isMinus) *i *= -1;
+
+    return 1;
+}
+
 void pressEnterToContinue() {
     printf("\nPress Enter (Return) to continue...");
     if (getchar() != '\n') {

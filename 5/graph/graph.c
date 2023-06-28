@@ -5,6 +5,7 @@
 
 #include "graph.h"
 #include "../queue/queue.h"
+#include "../include/utils.h"
 
 Graph *initGraph() {
     return calloc(1, sizeof(Graph));
@@ -80,6 +81,14 @@ char *getTypeColor(enum TYPE type) {
         case EXIT: return "green";
         case TRANSITION: return "blue";
     }
+}
+
+int getTypeValue(char *string) {
+    toLower(string);
+    if (!strcmp(string, "enter")) return ENTER;
+    if (!strcmp(string, "exit")) return EXIT;
+    if (!strcmp(string, "transition")) return TRANSITION;
+    return -1;
 }
 
 int insertVertex(Graph *graph, const char *id, enum TYPE type) {
@@ -361,4 +370,50 @@ void minimumSpanningTree(Graph *graph) {
         }
     }
     free(array);
+}
+
+char **splitLine(char *line, int *size) {
+    char **pieces = NULL;
+
+    char *piece = strtok(line, SEP);
+    while (piece) {
+        pieces = realloc(pieces, ++(*size) * sizeof(char *));
+        pieces[*size - 1] = piece;
+        piece = strtok(NULL, SEP);
+    }
+
+    return pieces;
+}
+
+void import(Graph *graph, FILE *file) {
+    int size = 0, i, weight;
+
+    for (char *line; (line = readLine(file)); free(line), size = 0) {
+        char **pieces = splitLine(line, &size);
+        if (size < 1) continue;
+        toLower(pieces[0]);
+        if (!strtok(pieces[0], "vertex") && size == 3) {
+            i = getTypeValue(pieces[size - 1]);
+            if (i > 0) insertVertex(graph, pieces[1], (enum TYPE) i);
+        } else if (!strtok(pieces[0], "edge") && size == 4) {
+            i = stringToInt(pieces[size - 1], &weight);
+            if (i) insertEdge(graph, pieces[1], pieces[2], weight);
+        }
+        free(pieces);
+    }
+}
+
+void dump(Graph *graph, FILE *file) {
+    for (int i = 0; i < graph->size; i++) {
+        Vertex *vertex = graph->vertices[i];
+        fprintf(file, "vertex %s %s\n", vertex->id, getTypeName(vertex->type));
+    }
+    fprintf(file, "\n");
+    for (int i = 0; i < graph->size; i++) {
+        Vertex *vertex = graph->vertices[i];
+        for (Node *node = vertex->edge; node; node = node->next) {
+            Edge *edge = node->obj;
+            fprintf(file, "edge %s %s %d\n", vertex->id, edge->vertex->id, edge->weight);
+        }
+    }
 }

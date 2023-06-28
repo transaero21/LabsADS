@@ -196,7 +196,26 @@ int mShortestPath(Graph *graph) {
 }
 
 int mMinimumSpanningTree(Graph *graph) {
+    printf("Generating minimum spanning tree...\n");
     minimumSpanningTree(graph);
+    return 1;
+}
+
+int mImport(Graph *graph) {
+    FILE *file;
+
+    if (!(getFile(&file, "r"))) return 0;
+    import(graph, file);
+    fclose(file);
+    return 1;
+}
+
+int mDump(Graph *graph) {
+    FILE *file;
+
+    if (!(getFile(&file, "w"))) return 0;
+    dump(graph, file);
+    fclose(file);
     return 1;
 }
 
@@ -205,7 +224,7 @@ int mExit() {
 }
 
 static int isMenuOption(int opt) {
-    return 1 <= opt && opt <= 12;
+    return 1 <= opt && opt <= 14;
 }
 
 static int isTypeOption(int type) {
